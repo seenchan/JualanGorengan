@@ -1,0 +1,6 @@
+ids,Name,CookingTime,Price,Random Weight,# of cooked,Unlock Requirement,Level requirement,Cost
+Bakwan,Bakwan,3.5,80,20,4,0,0,224
+Menjes,Menjes,2.1,100,15,2,0,0,140
+PisangGoreng,Pisang Goreng,2,200,30,2,0,0,140
+TahuCrispy,Tahu Crispy,1.8,70,17,3,0,0,147
+Mendoan,Tempe Mendoan,2,110,25,2,Menjes,3,154
